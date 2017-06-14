@@ -1,0 +1,18 @@
+[
+	{
+		"firstName": "James",
+		"surname": "Bond",
+		"portrait": "https://gp4.googleusercontent.com/-GWjBtz49CCk/AAAAAAAAAAI/AAAAAAAAAAA/r7OKHiAwtSg/s48-c-k-no/photo.jpg",
+		"occupation":"Special Agent",
+		"company":"Intellegent Services",
+		"motto":"Action with style"
+	},
+	{
+		"firstName": "Forrest",
+		"surname": "Gump",
+		"portrait": "https://gp4.googleusercontent.com/-GWjBtz49CCk/AAAAAAAAAAI/AAAAAAAAAAA/r7OKHiAwtSg/s48-c-k-no/photo.jpg",
+		"occupation":"All Rounder",
+		"company":"Around the world",
+		"motto":"Best in all"
+	}
+]

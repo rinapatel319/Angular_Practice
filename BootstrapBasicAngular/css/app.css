@@ -1,0 +1,18 @@
+footer{
+	height: 50px;
+}
+
+body{
+	padding-top: 70px;
+}
+.productTitle{
+	font-size: 20px;
+}
+
+.addItemForm, .searchForm{
+	margin-bottom: 20px;
+}
+
+.addItemForm input[type=text]{
+	width: 144px;
+}

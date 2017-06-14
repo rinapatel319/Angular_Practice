@@ -1,0 +1,29 @@
+.peopleTable {
+    width: 66%; 
+    margin-top: 20px;
+    overflow: auto;
+    float: left;
+}
+
+.personDetails{
+	width: 30%;
+	float:right;
+	border: 1px solid #DDDDDD;
+    margin-top: 20px;
+    padding: 1%;
+}
+.personDetails h4{
+	margin-top: 0px;
+}
+
+table.peopleTable{ cursor: pointer;}
+
+table.peopleTable > tbody > tr.trueSelectedRow > td{
+	background-color: #DFF0D8;
+}
+
+.jumbotron{margin-top: 25px;}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
